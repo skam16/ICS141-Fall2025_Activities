@@ -62,7 +62,7 @@ class Main{
         
         
         
-        // Insertion short
+    //Selection sort
         
     //   int[] arraySort = {2,6,8,9,10,20,-1};
        
