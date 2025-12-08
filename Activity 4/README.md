@@ -1,0 +1,1 @@
+Inheritance, toString, equals.
